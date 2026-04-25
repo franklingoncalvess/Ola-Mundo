@@ -1,6 +1,11 @@
-# Olá, Mundo!
-Primeiro Repositorio Git e GitHub
+🚀 Meu Primeiro Passo na Programação
 
-Repositório criado em uma aula ao vivo!
+Este repositório é o marco inicial da minha jornada como desenvolvedor. Ele registra meus primeiros experimentos com lógica e sintaxe, servindo como base para projetos mais complexos.
 
-Essa linha eu adicionei diretamente do site!
+### 🧠 O que aprendi aqui?
+* **Lógica Inicial:** Estrutura básica de um programa.
+* **Interação com Usuário:** O script `saudacao.py` demonstra o uso de variáveis e entrada de dados dinâmicos em Python.
+
+### 🛠️ Tecnologias
+* **Linguagem:** Python
+* **Versionamento:** Git & GitHub
